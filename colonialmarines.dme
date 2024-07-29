@@ -2466,6 +2466,7 @@
 #include "code\modules\vehicles\tank\aev.dm"
 #include "code\modules\vehicles\tank\interior.dm"
 #include "code\modules\vehicles\tank\tank.dm"
+#include "code\modules\vehicles\tank\twe.dm"
 #include "code\modules\vehicles\van\interior.dm"
 #include "code\modules\vehicles\van\van.dm"
 #include "code\modules\vox\vox.dm"

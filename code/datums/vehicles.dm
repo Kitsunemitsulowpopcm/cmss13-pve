@@ -49,3 +49,7 @@
 /datum/map_template/interior/van
 	name = "Van"
 	interior_id = "van"
+
+/datum/map_template/interior/tank_twe
+	name = "TWE Tank"
+	interior_id = "tank_twe"
