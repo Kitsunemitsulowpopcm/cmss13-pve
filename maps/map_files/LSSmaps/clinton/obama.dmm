@@ -441,6 +441,13 @@
 	icon_state = "black"
 	},
 /area/golden_arrow/hangar)
+"bI" = (
+/obj/structure/surface/rack,
+/obj/item/hardpoint/armor/caustic,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "bJ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood/oil,
@@ -778,6 +785,15 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/shared_office)
+"cO" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "cQ" = (
 /turf/open/floor/almayer/uscm{
 	icon_state = "logo_directional1"
@@ -951,6 +967,15 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/platoonarmory)
+"dB" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/obj/structure/machinery/floodlight/landing/floor,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "dC" = (
 /obj/structure/gun_rack/m41,
 /turf/open/floor/almayer{
@@ -1312,6 +1337,14 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/canteen)
+"ff" = (
+/obj/structure/machinery/landinglight/ds1/delaytwo{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "fh" = (
 /obj/effect/landmark/observer_start,
 /turf/open/floor/almayer{
@@ -1414,6 +1447,18 @@
 	},
 /turf/open/floor/almayer,
 /area/golden_arrow/dorms)
+"fD" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "fE" = (
 /obj/structure/machinery/landinglight/ds1{
 	dir = 8
@@ -2125,6 +2170,9 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/almayer,
 /area/golden_arrow/dorms)
+"hO" = (
+/turf/open/floor/plating,
+/area/space)
 "hP" = (
 /turf/closed/wall/almayer,
 /area/golden_arrow/cryo_cells)
@@ -2393,6 +2441,22 @@
 "iZ" = (
 /turf/closed/wall/almayer/outer,
 /area/golden_arrow/cryo_cells)
+"jc" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/obj/item/ammo_magazine/hardpoint/ltb_cannon,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "jj" = (
 /obj/structure/machinery/door/airlock/almayer/engineering/glass{
 	dir = 2;
@@ -2416,6 +2480,17 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/almayer,
 /area/golden_arrow/dorms)
+"jm" = (
+/obj/structure/machinery/light,
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "jn" = (
 /obj/structure/bed/chair{
 	dir = 4
@@ -2433,6 +2508,18 @@
 	},
 /turf/open/floor/plating/plating_catwalk,
 /area/golden_arrow/dorms)
+"jq" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/tank_glauncher,
+/obj/item/ammo_magazine/hardpoint/tank_glauncher,
+/obj/item/ammo_magazine/hardpoint/tank_glauncher,
+/obj/item/ammo_magazine/hardpoint/tank_glauncher,
+/obj/item/ammo_magazine/hardpoint/tank_glauncher,
+/obj/item/ammo_magazine/hardpoint/tank_glauncher,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "jr" = (
 /obj/structure/surface/table/almayer,
 /obj/item/toy/deck/uno,
@@ -2674,6 +2761,15 @@
 	},
 /turf/open/floor/almayer,
 /area/golden_arrow/dorms)
+"ki" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "kj" = (
 /obj/structure/surface/table/almayer,
 /obj/structure/bedsheetbin{
@@ -3252,6 +3348,13 @@
 	icon_state = "dark_sterile"
 	},
 /area/golden_arrow/medical)
+"me" = (
+/obj/structure/sign/banners/united_americas_flag{
+	pixel_x = -16;
+	pixel_y = 30
+	},
+/turf/open/floor/almayer,
+/area/space)
 "mf" = (
 /obj/structure/machinery/medical_pod/autodoc{
 	pixel_y = 6
@@ -3261,6 +3364,20 @@
 	icon_state = "test_floor4"
 	},
 /area/golden_arrow/medical)
+"mi" = (
+/obj/structure/platform_decoration{
+	dir = 4
+	},
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "mj" = (
 /obj/structure/machinery/medical_pod/autodoc{
 	dir = 1;
@@ -3291,10 +3408,57 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/cryo_cells)
+"mO" = (
+/obj/structure/machinery/door/airlock/almayer/secure{
+	dir = 1;
+	name = "\improper Assembly Room";
+	req_access = list();
+	req_one_access_txt = "19;12"
+	},
+/obj/structure/machinery/door/firedoor/border_only/almayer{
+	dir = 2
+	},
+/turf/open/floor/almayer{
+	icon_state = "test_floor4"
+	},
+/area/space)
+"nH" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delaytwo{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "nL" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/almayer,
 /area/golden_arrow/hangar)
+"nM" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delaythree{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"nO" = (
+/obj/item/stack/catwalk{
+	pixel_x = 4
+	},
+/obj/item/stack/catwalk{
+	pixel_x = -3;
+	pixel_y = 6
+	},
+/obj/structure/machinery/landinglight/ds1{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "nW" = (
 /obj/structure/machinery/light{
 	dir = 8
@@ -3374,6 +3538,28 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/shared_office)
+"pz" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"pS" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/bed/chair,
+/turf/open/floor/almayer,
+/area/space)
+"qg" = (
+/obj/structure/bed/chair{
+	dir = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "cargo"
+	},
+/area/space)
 "qk" = (
 /obj/structure/ship_ammo/minirocket,
 /obj/structure/ship_ammo/minirocket{
@@ -3385,6 +3571,13 @@
 	icon_state = "cargo"
 	},
 /area/golden_arrow/hangar)
+"qu" = (
+/obj/item/hardpoint/support/weapons_sensor,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "qI" = (
 /obj/structure/machinery/cm_vending/sorted/medical/no_access{
 	density = 0;
@@ -3406,12 +3599,66 @@
 	icon_state = "dark_sterile"
 	},
 /area/golden_arrow/medical)
+"qT" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/obj/structure/machinery/light,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "qW" = (
 /turf/open/floor/almayer/uscm{
 	dir = 9;
 	icon_state = "logo_directional1"
 	},
 /area/golden_arrow/shared_office)
+"qZ" = (
+/obj/item/hardpoint/support/flare_launcher,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"ri" = (
+/obj/item/hardpoint/primary/minigun,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"rk" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "NE-out";
+	pixel_x = 1;
+	pixel_y = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"rl" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer,
+/area/space)
+"ry" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "rN" = (
 /obj/structure/closet/coffin/woodencrate,
 /obj/item/ammo_magazine/rifle/m4ra/pve,
@@ -3430,12 +3677,44 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/shared_office)
+"sb" = (
+/obj/structure/machinery/landinglight/ds1/delaythree{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"sL" = (
+/obj/structure/platform{
+	dir = 1
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "sO" = (
 /obj/structure/machinery/landinglight/ds1/delaytwo,
 /turf/open/floor/almayer{
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"sP" = (
+/obj/structure/machinery/landinglight/ds1{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "sS" = (
 /obj/structure/surface/table/almayer,
 /obj/item/hardpoint/support/flare_launcher{
@@ -3445,10 +3724,27 @@
 	icon_state = "plate"
 	},
 /area/space)
-"sW" = (
-/obj/effect/vehicle_spawner/tank/decrepit{
+"sT" = (
+/obj/structure/machinery/landinglight/ds1/delaytwo,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"sV" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delaytwo{
 	dir = 8
 	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"sW" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
+/obj/structure/machinery/floodlight/landing/floor,
 /turf/open/floor/almayer{
 	icon_state = "plate"
 	},
@@ -3473,6 +3769,33 @@
 	icon_state = "cargo_arrow"
 	},
 /area/space)
+"tn" = (
+/obj/structure/machinery/landinglight/ds1{
+	dir = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"ts" = (
+/obj/structure/machinery/landinglight/ds1{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"tt" = (
+/obj/structure/platform{
+	dir = 1
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "ty" = (
 /turf/open/floor/plating/plating_catwalk,
 /area/space)
@@ -3486,6 +3809,15 @@
 	icon_state = "black"
 	},
 /area/space)
+"tZ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1{
+	dir = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "uh" = (
 /obj/structure/pipes/standard/simple/hidden/supply,
 /obj/structure/machinery/door/poddoor/almayer{
@@ -3496,6 +3828,35 @@
 	icon_state = "test_floor4"
 	},
 /area/golden_arrow/hangar)
+"um" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NE-out";
+	pixel_x = 1;
+	pixel_y = 1
+	},
+/obj/structure/machinery/floodlight/landing/floor,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"un" = (
+/obj/structure/machinery/landinglight/ds1/delayone{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"ut" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/obj/structure/machinery/floodlight/landing/floor,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "uU" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/plating_catwalk,
@@ -3512,6 +3873,20 @@
 	icon_state = "dark_sterile"
 	},
 /area/golden_arrow/dorms)
+"vb" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "vL" = (
 /obj/structure/machinery/alarm/almayer{
 	dir = 1
@@ -3524,6 +3899,13 @@
 /obj/structure/window/framed/almayer,
 /turf/open/floor/plating,
 /area/golden_arrow/medical)
+"ws" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "wG" = (
 /obj/structure/surface/table/reinforced/almayer_B,
 /obj/structure/machinery/computer/altitude_control_console,
@@ -3552,6 +3934,13 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/plating_catwalk,
 /area/space)
+"xl" = (
+/obj/item/hardpoint/secondary/towlauncher,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "xy" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/machinery/door/poddoor/shutters/almayer{
@@ -3563,6 +3952,27 @@
 	icon_state = "test_floor4"
 	},
 /area/golden_arrow/platoonarmory)
+"xF" = (
+/obj/structure/surface/table/almayer,
+/obj/item/device/megaphone{
+	pixel_x = 11;
+	pixel_y = 7
+	},
+/obj/item/prop/tableflag/uscm{
+	pixel_x = -12;
+	pixel_y = -1
+	},
+/turf/open/floor/almayer,
+/area/space)
+"xI" = (
+/obj/structure/bed/chair{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer{
+	icon_state = "cargo"
+	},
+/area/space)
 "xM" = (
 /obj/structure/machinery/cm_vending/sorted/uniform_supply/squad_prep{
 	req_access = list();
@@ -3579,6 +3989,12 @@
 	},
 /turf/open/floor/almayer,
 /area/golden_arrow/platoonarmory)
+"yL" = (
+/obj/structure/machinery/landinglight/ds1,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "yX" = (
 /turf/open/floor/plating,
 /area/golden_arrow/hangar)
@@ -3595,6 +4011,12 @@
 	icon_state = "plate"
 	},
 /area/space)
+"zL" = (
+/obj/structure/sign/safety/rewire{
+	pixel_x = 32
+	},
+/turf/open/floor/almayer,
+/area/space)
 "zR" = (
 /obj/structure/machinery/landinglight/ds1{
 	dir = 1
@@ -3603,6 +4025,28 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"zW" = (
+/obj/structure/machinery/prop/almayer/CICmap{
+	density = 0;
+	icon_state = "shuttle";
+	layer = 2.97;
+	name = "Tactical Map Display";
+	pixel_y = 21
+	},
+/obj/structure/noticeboard{
+	pixel_x = -21;
+	pixel_y = 30
+	},
+/turf/open/floor/almayer,
+/area/space)
+"Ap" = (
+/obj/structure/machinery/landinglight/ds1/delaythree{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Aw" = (
 /obj/structure/machinery/door/poddoor/railing{
 	dir = 8;
@@ -3629,6 +4073,27 @@
 	icon_state = "black"
 	},
 /area/golden_arrow/hangar)
+"AF" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/towlauncher,
+/obj/item/ammo_magazine/hardpoint/towlauncher,
+/obj/item/ammo_magazine/hardpoint/towlauncher,
+/obj/item/ammo_magazine/hardpoint/towlauncher,
+/obj/item/ammo_magazine/hardpoint/towlauncher,
+/obj/item/ammo_magazine/hardpoint/towlauncher,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"AH" = (
+/obj/structure/sign/banners/united_americas_flag{
+	pixel_x = -16;
+	pixel_y = 30
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "AV" = (
 /obj/item/ammo_magazine/m56d,
 /obj/item/ammo_magazine/m56d,
@@ -3661,6 +4126,32 @@
 	icon_state = "blackcorner"
 	},
 /area/golden_arrow/hangar)
+"BE" = (
+/turf/closed/wall/almayer,
+/area/space)
+"BI" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delaythree{
+	dir = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"BL" = (
+/obj/structure/machinery/floodlight/landing/floor,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"BN" = (
+/obj/structure/machinery/landinglight/ds1/delayone{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "BQ" = (
 /obj/structure/machinery/door/poddoor/railing{
 	id = "apcbayrailing1"
@@ -3719,6 +4210,71 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/canteen)
+"CL" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/ltaaap_minigun,
+/obj/item/ammo_magazine/hardpoint/ltaaap_minigun,
+/obj/item/ammo_magazine/hardpoint/ltaaap_minigun,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"CY" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delayone{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Dd" = (
+/obj/structure/pipes/vents/scrubber{
+	dir = 8
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Dj" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/secondary_flamer,
+/obj/item/ammo_magazine/hardpoint/secondary_flamer,
+/obj/item/ammo_magazine/hardpoint/secondary_flamer,
+/obj/item/ammo_magazine/hardpoint/secondary_flamer,
+/obj/item/ammo_magazine/hardpoint/secondary_flamer,
+/obj/item/ammo_magazine/hardpoint/secondary_flamer,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Dr" = (
+/obj/structure/machinery/floodlight/landing/floor{
+	pixel_x = 3
+	},
+/obj/structure/machinery/landinglight/ds1{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"DZ" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/flare_launcher,
+/obj/item/ammo_magazine/hardpoint/flare_launcher,
+/obj/item/ammo_magazine/hardpoint/flare_launcher,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Ea" = (
 /obj/structure/pipes/vents/scrubber{
 	dir = 1
@@ -3738,8 +4294,25 @@
 	icon_state = "plate"
 	},
 /area/space)
+"Ez" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delayone{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "EG" = (
 /turf/open/space/basic,
+/area/space)
+"EO" = (
+/obj/structure/platform{
+	dir = 4;
+	layer = 2.7
+	},
+/obj/structure/stairs/perspective,
+/turf/open/floor/almayer,
 /area/space)
 "ES" = (
 /obj/structure/surface/table/almayer,
@@ -3780,6 +4353,12 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/platoonarmory)
+"Fh" = (
+/obj/structure/machinery/landinglight/ds1/delaythree,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Fk" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood/oil,
@@ -3795,6 +4374,18 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/shared_office)
+"Ft" = (
+/obj/structure/sign/banners/united_americas_flag{
+	pixel_x = -16;
+	pixel_y = -30
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Fx" = (
+/turf/open/floor/almayer,
+/area/space)
 "FD" = (
 /obj/effect/decal/warning_stripes{
 	icon_state = "SE-out";
@@ -3846,10 +4437,26 @@
 	icon_state = "redfull"
 	},
 /area/golden_arrow/shared_office)
+"Hl" = (
+/obj/structure/surface/rack,
+/obj/item/hardpoint/locomotion/treads,
+/obj/item/hardpoint/locomotion/treads,
+/obj/item/hardpoint/locomotion/treads,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Hq" = (
 /obj/structure/machinery/light{
 	dir = 1
 	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Hs" = (
+/obj/structure/machinery/floodlight/landing/floor,
+/obj/structure/machinery/landinglight/ds1,
 /turf/open/floor/almayer{
 	icon_state = "plate"
 	},
@@ -3859,6 +4466,15 @@
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"HC" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
 /turf/open/floor/almayer{
 	icon_state = "plate"
 	},
@@ -3893,6 +4509,22 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/shared_office)
+"HV" = (
+/obj/effect/vehicle_spawner/tank/decrepit{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"If" = (
+/obj/structure/machinery/landinglight/ds1/delaytwo{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "It" = (
 /obj/effect/decal/warning_stripes{
 	icon_state = "W";
@@ -3906,6 +4538,23 @@
 /obj/effect/decal/cleanable/blood/oil,
 /turf/open/floor/almayer,
 /area/golden_arrow/hangar)
+"IA" = (
+/obj/effect/vehicle_spawner/twe/plain{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"ID" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delaythree{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "IM" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/almayer/uscm{
@@ -3934,6 +4583,41 @@
 	icon_state = "black"
 	},
 /area/golden_arrow/hangar)
+"Jg" = (
+/obj/structure/machinery/landinglight/ds1/delayone,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Jj" = (
+/obj/structure/surface/rack,
+/obj/item/hardpoint/armor/ballistic,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Jn" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Js" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NE-out";
+	pixel_x = 1;
+	pixel_y = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Jx" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/machinery/light,
@@ -3942,6 +4626,13 @@
 	icon_state = "cargo_arrow"
 	},
 /area/golden_arrow/hangar)
+"Jy" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/alarm/almayer{
+	dir = 1
+	},
+/turf/open/floor/almayer,
+/area/space)
 "JB" = (
 /obj/structure/barricade/metal{
 	dir = 8
@@ -3982,6 +4673,28 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/almayer,
 /area/golden_arrow/hangar)
+"JX" = (
+/obj/item/hardpoint/secondary/small_flamer,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Kh" = (
+/obj/structure/machinery/landinglight/ds1/delaytwo{
+	dir = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Kl" = (
+/obj/item/hardpoint/primary/flamer,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Kw" = (
 /obj/structure/closet/crate,
 /turf/open/floor/almayer{
@@ -4039,6 +4752,14 @@
 	},
 /turf/open/floor/almayer,
 /area/golden_arrow/hangar)
+"Lv" = (
+/obj/structure/machinery/landinglight/ds1/delaythree{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Lx" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/almayer{
@@ -4051,6 +4772,15 @@
 	icon_state = "cargo_arrow"
 	},
 /area/golden_arrow/hangar)
+"LJ" = (
+/obj/structure/machinery/floodlight/landing/floor,
+/obj/structure/machinery/landinglight/ds1/delayone{
+	dir = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "LL" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/vehicle_spawner/tank/fixed/autocannon{
@@ -4066,6 +4796,39 @@
 /turf/open/floor/almayer{
 	icon_state = "plate"
 	},
+/area/space)
+"LU" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/stack/catwalk{
+	pixel_x = 2;
+	pixel_y = -9
+	},
+/obj/structure/machinery/landinglight/ds1/delayone{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"LV" = (
+/obj/structure/surface/rack,
+/obj/item/hardpoint/armor/paladin,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Mf" = (
+/obj/structure/surface/table/almayer,
+/obj/item/notepad/black,
+/obj/item/tool/pen{
+	pixel_x = -10;
+	pixel_y = 8
+	},
+/obj/item/prop/tableflag{
+	pixel_x = 12;
+	pixel_y = -1
+	},
+/turf/open/floor/almayer,
 /area/space)
 "Ms" = (
 /obj/structure/surface/table/almayer,
@@ -4087,6 +4850,10 @@
 	icon_state = "dark_sterile"
 	},
 /area/golden_arrow/medical)
+"MF" = (
+/obj/docking_port/stationary/marine_dropship/golden_arrow_hangar,
+/turf/open/floor/plating,
+/area/space)
 "MG" = (
 /obj/effect/decal/cleanable/blood/oil,
 /obj/structure/largecrate/random/case/double,
@@ -4126,6 +4893,15 @@
 	icon_state = "black"
 	},
 /area/space)
+"Nv" = (
+/obj/structure/surface/rack,
+/obj/item/storage/belt/tank,
+/obj/item/storage/belt/tank,
+/obj/item/storage/belt/tank,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Nw" = (
 /obj/structure/machinery/landinglight/ds1/delaytwo{
 	dir = 4
@@ -4137,11 +4913,60 @@
 "Nx" = (
 /turf/closed/wall/almayer/outer,
 /area/space)
+"NM" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "NE-out";
+	pixel_x = 1;
+	pixel_y = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "NP" = (
 /obj/structure/surface/table/almayer,
 /obj/item/storage/toolbox/mechanical/green{
 	pixel_y = 6
 	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"NR" = (
+/obj/structure/surface/table/almayer,
+/turf/open/floor/almayer,
+/area/space)
+"NT" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"NW" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Oc" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/ace_autocannon,
+/obj/item/ammo_magazine/hardpoint/ace_autocannon,
+/obj/item/ammo_magazine/hardpoint/ace_autocannon,
+/obj/item/ammo_magazine/hardpoint/ace_autocannon,
+/obj/item/ammo_magazine/hardpoint/ace_autocannon,
+/obj/item/ammo_magazine/hardpoint/ace_autocannon,
+/obj/item/ammo_magazine/hardpoint/ace_autocannon,
+/obj/item/ammo_magazine/hardpoint/ace_autocannon,
 /turf/open/floor/almayer{
 	icon_state = "plate"
 	},
@@ -4188,6 +5013,15 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"OE" = (
+/obj/structure/machinery/landinglight/ds1/delaytwo{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "OJ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/machinery/landinglight/ds1/delaythree,
@@ -4195,6 +5029,13 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"OY" = (
+/obj/item/hardpoint/secondary/grenade_launcher,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Pn" = (
 /obj/effect/decal/warning_stripes{
 	icon_state = "W";
@@ -4306,6 +5147,18 @@
 	},
 /turf/closed/wall/almayer/outer,
 /area/golden_arrow/hangar)
+"Qc" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Qo" = (
 /obj/structure/machinery/door/poddoor/almayer{
 	dir = 4;
@@ -4316,6 +5169,18 @@
 	icon_state = "test_floor4"
 	},
 /area/golden_arrow/hangar)
+"QE" = (
+/obj/structure/bed/chair{
+	dir = 1
+	},
+/obj/structure/machinery/firealarm{
+	dir = 4;
+	pixel_x = 21
+	},
+/turf/open/floor/almayer{
+	icon_state = "cargo"
+	},
+/area/space)
 "QK" = (
 /obj/structure/machinery/door/poddoor/almayer{
 	dir = 4;
@@ -4354,6 +5219,13 @@
 	icon_state = "black"
 	},
 /area/space)
+"QU" = (
+/obj/structure/surface/rack,
+/obj/item/hardpoint/armor/concussive,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "QY" = (
 /obj/structure/ship_ammo/rocket/widowmaker,
 /turf/open/floor/almayer{
@@ -4387,6 +5259,14 @@
 	},
 /turf/open/floor/almayer,
 /area/golden_arrow/hangar)
+"RX" = (
+/obj/item/hardpoint/primary/cannon,
+/obj/item/hardpoint/primary/cannon,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Si" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/machinery/landinglight/ds1/delaytwo{
@@ -4418,6 +5298,25 @@
 "SM" = (
 /turf/closed/wall/almayer,
 /area/golden_arrow/medical)
+"Tu" = (
+/obj/structure/machinery/light{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
+"Tz" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delaythree,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "TD" = (
 /obj/structure/ship_ammo/minirocket,
 /obj/effect/decal/cleanable/dirt,
@@ -4481,6 +5380,23 @@
 	},
 /turf/open/floor/almayer,
 /area/golden_arrow/hangar)
+"UE" = (
+/obj/structure/platform{
+	dir = 8;
+	layer = 2.7
+	},
+/obj/structure/stairs/perspective,
+/turf/open/floor/almayer,
+/area/space)
+"UF" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/primary_flamer,
+/obj/item/ammo_magazine/hardpoint/primary_flamer,
+/obj/item/ammo_magazine/hardpoint/primary_flamer,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "UI" = (
 /obj/structure/machinery/power/fusion_engine{
 	name = "\improper S-52 fusion reactor 17"
@@ -4494,6 +5410,14 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"Ve" = (
+/obj/structure/machinery/landinglight/ds1/delayone{
+	dir = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Vf" = (
 /obj/structure/surface/table/almayer,
 /obj/structure/largecrate/random/secure{
@@ -4585,6 +5509,20 @@
 	icon_state = "dark_sterile"
 	},
 /area/golden_arrow/medical)
+"Wp" = (
+/obj/structure/surface/rack,
+/obj/item/ammo_magazine/hardpoint/m56_cupola,
+/obj/item/ammo_magazine/hardpoint/m56_cupola,
+/obj/item/ammo_magazine/hardpoint/m56_cupola,
+/obj/item/ammo_magazine/hardpoint/m56_cupola,
+/obj/item/ammo_magazine/hardpoint/m56_cupola,
+/obj/item/ammo_magazine/hardpoint/m56_cupola,
+/obj/item/ammo_magazine/hardpoint/m56_cupola,
+/obj/item/ammo_magazine/hardpoint/m56_cupola,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Wx" = (
 /obj/structure/machinery/landinglight/ds1{
 	dir = 4
@@ -4593,6 +5531,17 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"Wz" = (
+/obj/structure/machinery/floodlight/landing/floor{
+	pixel_x = -2
+	},
+/obj/structure/machinery/landinglight/ds1{
+	dir = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "WA" = (
 /turf/open/floor/almayer,
 /area/golden_arrow/hangar)
@@ -4645,6 +5594,22 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"Xa" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "Xf" = (
 /turf/closed/wall/almayer,
 /area/golden_arrow/platoonarmory)
@@ -4732,6 +5697,13 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"Yy" = (
+/obj/item/hardpoint/support/overdrive_enhancer,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "YA" = (
 /obj/structure/pipes/standard/simple/hidden/supply,
 /obj/structure/machinery/door/poddoor/railing{
@@ -4848,6 +5820,13 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/shared_office)
+"ZM" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/landinglight/ds1/delayone,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "ZN" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/almayer{
@@ -4859,6 +5838,13 @@
 	icon_state = "plate"
 	},
 /area/golden_arrow/hangar)
+"ZS" = (
+/obj/item/hardpoint/support/artillery_module,
+/obj/structure/surface/rack,
+/turf/open/floor/almayer{
+	icon_state = "plate"
+	},
+/area/space)
 "ZT" = (
 /obj/structure/machinery/door/poddoor/shutters/almayer{
 	id = "squadarmory";
@@ -13820,17 +14806,17 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Rr
+Rr
+Rr
+BE
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
 EG
 EG
 EG
@@ -13972,17 +14958,17 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Rr
+Rr
+HC
+BE
+Hl
+Hl
+Nv
+Nv
+Rr
+RX
+Nx
 EG
 EG
 EG
@@ -14114,27 +15100,27 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Nx
+Nx
+Nx
+Nx
+BE
+BE
+BE
+BE
+BE
+Rr
+Rr
+ry
+Rr
+BL
+Rr
+Rr
+Rr
+BL
+ri
+Nx
 EG
 EG
 EG
@@ -14266,27 +15252,27 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+pS
+Fx
+EO
+Tu
+xI
+qg
+qg
+jm
+BE
+Rr
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Kl
+Nx
 EG
 EG
 EG
@@ -14418,27 +15404,27 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+zW
+Fx
+xF
+tt
+qg
+qg
+xI
+vb
+BE
+Rr
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
 EG
 EG
 EG
@@ -14570,27 +15556,27 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+me
+Fx
+NR
+sL
+Xa
+fD
+Dd
+rk
+mO
+Rr
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+xl
+Nx
 EG
 EG
 EG
@@ -14722,27 +15708,27 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Fx
+rl
+Mf
+tt
+qg
+qg
+xI
+Qc
+BE
+Rr
+Rr
+ry
+Rr
+BL
+Rr
+Rr
+Rr
+BL
+JX
+Nx
 EG
 EG
 EG
@@ -14874,27 +15860,27 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Jy
+zL
+UE
+mi
+xI
+QE
+xI
+qT
+BE
+Rr
+Rr
+NW
+BE
+ZS
+qZ
+Yy
+qu
+Rr
+OY
+Nx
 EG
 EG
 EG
@@ -15026,27 +16012,27 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Nx
+Nx
+Nx
+Nx
+BE
+BE
+BE
+BE
+BE
+Js
+Rr
+HC
+BE
+BE
+BE
+BE
+BE
+Nx
+Nx
+Nx
 EG
 EG
 EG
@@ -15182,21 +16168,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+BL
+Rr
+Rr
+Rr
+BL
+pz
+Rr
+ry
+BL
+Rr
+Rr
+Rr
+BL
+Nx
 EG
 EG
 EG
@@ -15334,21 +16320,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Rr
+Rr
+Rr
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
 EG
 EG
 EG
@@ -15486,21 +16472,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+AH
+Rr
+HV
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+HV
+Rr
+Ft
+Nx
 EG
 EG
 EG
@@ -15638,21 +16624,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Rr
+Rr
+Rr
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
 EG
 EG
 EG
@@ -15790,21 +16776,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+BL
+Rr
+Rr
+Rr
+BL
+pz
+Rr
+ry
+BL
+Rr
+Rr
+Rr
+BL
+Nx
 EG
 EG
 EG
@@ -15942,21 +16928,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+BE
+BE
+BE
+BE
+BE
+NM
+Rr
+Jn
+BE
+BE
+BE
+BE
+BE
+Nx
 EG
 EG
 EG
@@ -16094,21 +17080,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+BL
+Rr
+Rr
+Rr
+BL
+pz
+Rr
+ry
+BL
+Rr
+Rr
+Rr
+BL
+Nx
 EG
 EG
 EG
@@ -16246,21 +17232,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Rr
+Rr
+Rr
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
 EG
 EG
 EG
@@ -16398,21 +17384,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+AH
+Rr
+IA
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+IA
+Rr
+Ft
+Nx
 EG
 EG
 EG
@@ -16550,21 +17536,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Rr
+Rr
+Rr
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
 EG
 EG
 EG
@@ -16702,21 +17688,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+BL
+Rr
+Rr
+Rr
+BL
+pz
+Rr
+ry
+BL
+Rr
+Rr
+Rr
+BL
+Nx
 EG
 EG
 EG
@@ -16854,21 +17840,21 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+BE
+BE
+BE
+BE
+BE
+NM
+Rr
+Jn
+BE
+BE
+BE
+BE
+BE
+Nx
 EG
 EG
 EG
@@ -16981,46 +17967,46 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+BL
+Rr
+Rr
+Rr
+BL
+pz
+Rr
+ry
+BL
+Rr
+Rr
+Rr
+BL
+Nx
 EG
 EG
 EG
@@ -17133,46 +18119,46 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
+Rr
+Rr
+Rr
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
 EG
 EG
 EG
@@ -17285,46 +18271,46 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
 Rr
 Rr
 Rr
 Rr
-EG
-EG
-EG
-EG
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
+AH
+Rr
+IA
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+IA
+Rr
+Ft
+Nx
 EG
 EG
 EG
@@ -17437,46 +18423,46 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
+Nx
+Rr
+sW
+If
+Lv
+NT
+Ez
+nH
+Lv
+ts
+Ez
+nH
+ID
+Wz
+BN
+nH
+Lv
+ts
+Ez
+If
+Lv
+ts
+BN
+If
+um
 Nx
 Rr
 Rr
 Rr
-EG
-EG
-EG
-EG
+Rr
+Rr
+pz
+Rr
+ry
+Rr
+Rr
+Rr
+Rr
+Rr
+Nx
 EG
 EG
 EG
@@ -17589,46 +18575,46 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
+Jg
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+tn
+Nx
+BL
 Rr
 Rr
-EG
-EG
-EG
-EG
+Rr
+BL
+pz
+Rr
+ry
+BL
+Rr
+Rr
+Rr
+BL
+Nx
 EG
 EG
 EG
@@ -17741,48 +18727,48 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
+yL
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+Ve
+Nx
+BE
+BE
+BE
+BE
+BE
+ki
 Rr
-Rr
-EG
-EG
-EG
-EG
-EG
-EG
+NW
+BE
+BE
+BE
+BE
+BE
+Nx
+Nx
+Nx
 EG
 EG
 EG
@@ -17893,48 +18879,48 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
+Tz
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+Kh
 Rr
 Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+BE
+Oc
+Wp
+DZ
+DZ
+Rr
+jc
 Nx
-EG
-EG
-EG
-EG
-EG
 EG
 EG
 EG
@@ -18045,48 +19031,48 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-Rr
-Rr
-Rr
-Rr
 Nx
-EG
-EG
-EG
-EG
-EG
+Rr
+sT
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+BI
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+BL
+Rr
+Rr
+Rr
+BL
+CL
+Nx
 EG
 EG
 EG
@@ -18197,47 +19183,47 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
-Nx
-Nx
-Nx
-Nx
-Nx
+Rr
+Jg
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+tZ
 Rr
 Rr
 Rr
-Nx
-Nx
-Nx
-Nx
-Nx
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+UF
 Nx
 EG
 EG
@@ -18349,34 +19335,34 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
+Rr
+Hs
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+MF
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+LJ
+Rr
+Rr
+Rr
 Rr
 Rr
 Rr
@@ -18501,35 +19487,31 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
+Fh
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+OE
 Rr
 Rr
 Rr
@@ -18542,6 +19524,10 @@ Rr
 Rr
 Rr
 Rr
+Rr
+Rr
+Rr
+jq
 Nx
 EG
 EG
@@ -18653,37 +19639,32 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
+sT
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+sb
 Rr
-sW
 Rr
 Rr
 Rr
@@ -18691,9 +19672,14 @@ Rr
 Rr
 Rr
 Rr
-sW
 Rr
 Rr
+BL
+Rr
+Rr
+Rr
+BL
+Dj
 Nx
 EG
 EG
@@ -18805,35 +19791,31 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
+ZM
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+tn
 Rr
 Rr
 Rr
@@ -18843,9 +19825,13 @@ Rr
 Rr
 Rr
 Rr
+BE
+Jj
+bI
+QU
+LV
 Rr
-Rr
-Rr
+AF
 Nx
 EG
 EG
@@ -18957,47 +19943,47 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
+ws
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+tn
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
 Nx
 EG
 EG
@@ -19109,48 +20095,48 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-Nx
-Nx
-Nx
-Nx
-Nx
 Nx
 Rr
-Rr
-Rr
+Fh
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+hO
+Ve
 Nx
-Nx
-Nx
-Nx
-Nx
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -19261,48 +20247,48 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
+dB
+ff
+un
+cO
+nM
+ff
+LU
+nO
+nM
+ff
+un
+Dr
+Ap
+sV
+CY
+sP
+Ap
+sV
+un
+sP
+Ap
+ff
+ut
 Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -19413,33 +20399,6 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
 Rr
@@ -19454,7 +20413,34 @@ Rr
 Rr
 Rr
 Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
 Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -19565,37 +20551,9 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
 Rr
 Rr
-sW
 Rr
 Rr
 Rr
@@ -19603,10 +20561,38 @@ Rr
 Rr
 Rr
 Rr
-sW
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
+Rr
 Rr
 Rr
 Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -19717,48 +20703,48 @@ EG
 EG
 EG
 EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
-EG
 Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
 Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -19896,21 +20882,21 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -20048,21 +21034,21 @@ EG
 EG
 EG
 EG
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
-Rr
-Rr
-Rr
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -20200,21 +21186,21 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -20352,21 +21338,21 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -20504,21 +21490,21 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-sW
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-sW
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -20656,21 +21642,21 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -20808,21 +21794,21 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -20960,21 +21946,21 @@ EG
 EG
 EG
 EG
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
-Rr
-Rr
-Rr
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -21112,16 +22098,16 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -21264,16 +22250,16 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -21416,16 +22402,16 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-sW
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -21568,16 +22554,16 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -21720,16 +22706,16 @@ EG
 EG
 EG
 EG
-Nx
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Rr
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
@@ -21872,16 +22858,16 @@ EG
 EG
 EG
 EG
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
-Nx
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
 EG
 EG
 EG
